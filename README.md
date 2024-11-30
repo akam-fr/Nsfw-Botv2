@@ -14,7 +14,7 @@
 
 # <a id="config"></a>⚙ » Config
 
-Si vous souhaitez modifier la configuration, ouvrez [nfig.json](https://discord.gg/akamfr) et localisez-le en haut. Là, vous pouvez configurer les éléments suivants :
+Si vous souhaitez modifier la configuration, ouvrez [config.json](https://discord.gg/akamfr) et localisez-le en haut. Là, vous pouvez configurer les éléments suivants :
 
 ```js
   "token": "Put-Token-Here",
